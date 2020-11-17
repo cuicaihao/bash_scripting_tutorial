@@ -1,6 +1,9 @@
 # Learn How To Write Bash Scripts on Unix/Linux.
 
-![bash_scripting](images/bash_scripting.png)
+<!-- ![bash_scripting](images/bash_scripting.png =250x) -->
+<p align="center">
+<img src="images/bash_scripting.png" alt="bash_scripting" style="width:250px;"/>
+</p>
 
 ## Introduction
 
