@@ -26,7 +26,7 @@ This Bash scripting tutorial is divided into 8 sections plus few case studies re
 
 In general I recommend you work through them in order but if you've come here just to learn about a specific topic then who am I to slow you down, just head straight on over.
 
-1. What is a Bash Script - What are they, how do they work and how to run them.
+1. [What is a Bash Script](01_what_is_a_bash_script/What_is_a_Bash_Script.md) - What are they, how do they work and how to run them.
 2. Variables - Store data temporarily for later use.
 3. Input - Different ways to supply data and directions to your Bash script.
 4. Arithmetic - Perform various arithmetic operations in your Bash script.
