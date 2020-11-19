@@ -29,7 +29,7 @@ In general I recommend you work through them in order but if you've come here ju
 1. [What is a Bash Script](01_what_is_a_bash_script/What_is_a_Bash_Script.md) - What are they, how do they work and how to run them.
 2. [Variables](02_variables/Variables.md) - Store data temporarily for later use.
 3. [Input](03_Input/Input.md) - Different ways to supply data and directions to your Bash script.
-4. Arithmetic - Perform various arithmetic operations in your Bash script.
+4. [Arithmetic](04_Arithmetic/Arithmetic.md) - Perform various arithmetic operations in your Bash script.
 5. If Statements - How to make decisions within your Bash script.
 6. Loops - A variety of ways to perform repetitive tasks.
 7. Functions - Reuse code to make life easier.
@@ -77,7 +77,7 @@ If you wish to succeed with Bash scripting then there are two things you need, P
 
 ## Disclaimer
 
-Unfortunately, in this crazy and litigous world we now live in, one has to keep themselves covered so here is my disclaimer.
+Unfortunately, in this crazy and litigious world we now live in, one has to keep themselves covered so here is my disclaimer.
 
 To the best of my knowledge, the material contained within these pages is correct. I make no guarantees however.
 I also take no responsibility for any damage you may do based upon knowledge gained from here (even though the chances of doing so are relatively small at best).
