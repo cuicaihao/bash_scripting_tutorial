@@ -51,7 +51,7 @@ bash-3.2$
 ```
 
 Here is a table with some of the basic expressions you may perform. There are others but these are the most commonly used.
-| Operator | Operation |
+| Operator | Description |
 |------------: |----------------------------------------------- |
 | +, -, \*, / | addition, subtraction, multiply, divide |
 | var++ | Increase the variable var by 1 |

@@ -22,7 +22,7 @@ BASH is the default shell on most Linux distributions and Apple's macOS (formerl
 
 ## Outlines
 
-This Bash scripting tutorial is divided into 8 sections plus few case studies realted to IT administration and engineering for data analytics and machine learning.
+This Bash scripting tutorial is divided into 8 sections plus few case studies related to IT administration and engineering for data analytics and machine learning.
 
 In general I recommend you work through them in order but if you've come here just to learn about a specific topic then who am I to slow you down, just head straight on over.
 
@@ -30,18 +30,18 @@ In general I recommend you work through them in order but if you've come here ju
 2. [Variables](02_variables/Variables.md) - Store data temporarily for later use.
 3. [Input](03_Input/Input.md) - Different ways to supply data and directions to your Bash script.
 4. [Arithmetic](04_Arithmetic/Arithmetic.md) - Perform various arithmetic operations in your Bash script.
-5. If Statements - How to make decisions within your Bash script.
-6. Loops - A variety of ways to perform repetitive tasks.
-7. Functions - Reuse code to make life easier.
-8. User Interface - Make your scripts user friendly.
-9. Case Study
+5. [If Statements](05_If_Statements/If_Statements.md) - How to make decisions within your Bash script.
+6. [Loops]() - A variety of ways to perform repetitive tasks.
+7. [Functions]() - Reuse code to make life easier.
+8. [User Interface]() - Make your scripts user friendly.
+9. [Case Study]()
 
 Bash scripting relies on an understanding of the Linux Command Line. If you are not confident on the Linux Command Line I suggest you start by going through the [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/).
 
 ## Structure
 
 The best way to learn Bash Scripting is as a series of small, easy to manage steps.
-This tutorial is organised as such, with each section building upon the knowledge and skills learned in the previous sections. If you work through them in order, read them fully (there is a fair bit of material but it is important for getting a proper understanding) and practice on the command line as you go I believe you should have a fairly pleasant and smooth journey to Bash scripting mastery.
+This tutorial is organized as such, with each section building upon the knowledge and skills learned in the previous sections. If you work through them in order, read them fully (there is a fair bit of material but it is important for getting a proper understanding) and practice on the command line as you go I believe you should have a fairly pleasant and smooth journey to Bash scripting mastery.
 
 99 times out of 100 when a student has troubles with this stuff I find that it is not that they are incapable but that they were lazy and didn't read the material fully.
 
@@ -53,13 +53,14 @@ Each section is structured in the following format:
 - A set of activities to help you solidify your knowledge and skills.
 
 Think of the activities not as tutorial questions (such as you may get in a class at school) but as direction on where to explore in the Linux environment to benefit from your new knowledge and skills.
-Treat the activities as a starting point for exploration. The further you take it, the better you will do. (How well you do and how far you go depends on how unlazy you are.)
+
+Treat the activities as a starting point for exploration. The further you take it, the better you will do. (How well you do and how far you go depends on how diligent you are.)
 
 ## General House Rules
 
 - I'll refer to Linux in the following pages, whenever I do, assume I'm actually saying Unix/ Linux. Linux is an offshoot of Unix and behaves pretty much exactly the same.
 - Whenever you see `<something>`, what this means is that you are to replace this with something useful. Replace the whole thing (including the < and >). If you see something such as <n> then it usually means replace this with a number.
-- Whenevery you see `[something]` this usually means that this something is optional. When you run the command you may put in the something or leave it out.
+- Whenever you see `[something]` this usually means that this something is optional. When you run the command you may put in the something or leave it out.
 
 ## Problem Solving and Creative Thinking
 
