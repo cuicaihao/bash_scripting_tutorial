@@ -31,7 +31,7 @@ In general I recommend you work through them in order but if you've come here ju
 3. [Input](03_Input/Input.md) - Different ways to supply data and directions to your Bash script.
 4. [Arithmetic](04_Arithmetic/Arithmetic.md) - Perform various arithmetic operations in your Bash script.
 5. [If Statements](05_If_Statements/If_Statements.md) - How to make decisions within your Bash script.
-6. [Loops]() - A variety of ways to perform repetitive tasks.
+6. [Loops](06_Loops/Loops.md) - A variety of ways to perform repetitive tasks.
 7. [Functions]() - Reuse code to make life easier.
 8. [User Interface]() - Make your scripts user friendly.
 9. [Case Study]()
