@@ -33,7 +33,7 @@ In general I recommend you work through them in order but if you've come here ju
 5. [If Statements](05_If_Statements/If_Statements.md) - How to make decisions within your Bash script.
 6. [Loops](06_Loops/Loops.md) - A variety of ways to perform repetitive tasks.
 7. [Functions](07_Functions/Functions.md) - Reuse code to make life easier.
-8. [User Interface]() - Make your scripts user friendly.
+8. [User Interface](08_User_Interface/User_Interface.md) - Make your scripts user friendly.
 9. [Case Study]()
 
 Bash scripting relies on an understanding of the Linux Command Line. If you are not confident on the Linux Command Line I suggest you start by going through the [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/).
