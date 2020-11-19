@@ -154,13 +154,13 @@ bash-3.2$ ./expansion_example.sh
 bash-3.2$
 ```
 
-So as you can see double parenthese is quite flexible in how you format it's expression. This is part of why we prefer this method.
+So as you can see double parentheses is quite flexible in how you format it's expression. This is part of why we prefer this method.
 
-As double parentheses is builtin to Bash it also runs slighly more efficiently (though to be honest, with the raw computing power of machines these days the difference in performance is really insignificant).
+As double parentheses is builtin to Bash it also runs slightly more efficiently (though to be honest, with the raw computing power of machines these days the difference in performance is really insignificant).
 
 ## Length of a Variable
 
-This isn't really arithmetic but it can be quite useful. If you want to find out the lengh of a variable (how many characters) you can do the following:
+This isn't really arithmetic but it can be quite useful. If you want to find out the length of a variable (how many characters) you can do the following:
 
 > \$(#variable)
 
