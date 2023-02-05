@@ -97,7 +97,8 @@ Your third car was: Bently Lotus
 bash-3.2$
 ```
 
-The general mechanism is that you can supply several variable names to read. Read will then take your input and split it on whitespace (` `).
+The general mechanism is that you can supply several variable names to read. 
+Read will then take your input and split it on whitespace (` `).
 
 The first item will then be assigned to the first variable name, the second item to the second variable name and so on. If there are more items than variable names then the remaining items will all be added to the last variable name. If there are less items than variable names then the remaining variable names will be set to `blank` or `null`.
 

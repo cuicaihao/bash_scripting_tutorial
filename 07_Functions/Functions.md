@@ -10,7 +10,7 @@ Think of a function as a small script within a script. It's a small chunk of cod
 
 Creating a function is fairly easy. They may be written in two different formats:
 
-```
+```bash
 function_name () {
 <commands>
 }
@@ -18,7 +18,7 @@ function_name () {
 
 or
 
-```
+```bash
 function function_name {
 <commands>
 }
@@ -53,7 +53,7 @@ Let's break it down:
 - Within the curly brackets we may have as many commands as we like.
 - Once the function has been defined, we may call it as many times as we like and it will execute those commands.
 
-```
+```bash
 bash-3.2$ ./function_example.sh
 Hello I am a function
 Hello I am another function
@@ -82,7 +82,7 @@ print_something Jupiter
 
 > Terminal
 
-```
+```bash
 bash-3.2$ ./arguments_example.sh
 Hello Mars
 Hello Jupiter

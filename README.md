@@ -2,7 +2,7 @@
 
 <!-- ![bash_scripting](images/bash_scripting.png =250x) -->
 <p align="center">
-<img src="images/bash_scripting.png" alt="bash_scripting" style="width:250px;"/> 
+<img src="images/BashScripting.jpg" alt="bash_scripting" style="width:650px;"/> 
 </p>
 
 ## Introduction

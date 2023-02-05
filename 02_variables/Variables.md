@@ -21,8 +21,8 @@ To read the variable we then place its name (preceded by a `$` sign) anywhere in
 
 Here are a few quick points on syntax. They will be elaborated on and demonstrated as we go into more detail below.
 
-- When referring to or reading a variable we place a \$ sign before the variable name.
-- When setting a variable we leave out the \$ sign.
+- When referring to or reading a variable we place a `$` sign before the variable name.
+- When setting a variable we leave out the `$` sign.
 - Some people like to always write variable names in uppercase so they stand out. It's your preference however. They can be all uppercase, all lowercase, or a mixture.
 - A variable may be placed anywhere in a script (or on the command line for that matter) and, when run, Bash will replace it with the value of the variable. This is made possible as the substitution is done before the command is run.
 
@@ -273,13 +273,13 @@ For instance you could create a script which will make a dated (ie todays date p
 - $1, $2, ...
   The first, second, etc command line arguments to the script.
 - variable=value
-  To set a value for a variable. Remember, no spaces on either side of =
+  To set a value for a variable. Remember, no spaces on either side of `=`
 - Quotes " '
   Double will do variable substitution, single will not.
-- variable=\$( command )
+- variable=`$`( command )
   Save the output of a command into a variable
-- export var1
-  Make the variable var1 available to child processes.
+- export `var1`
+  Make the variable `var1` available to child processes.
 
 > Important Concept
 
